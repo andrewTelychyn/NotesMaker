@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostMakerWPF", "PostMakerWPF\PostMakerWPF.csproj", "{08B0272E-036B-4C69-AC96-F1C5957D190D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BisnessLogicLibrary", "BisnessLogicLibrary\BisnessLogicLibrary.csproj", "{6D52B76A-0103-47A3-BF38-0A349F5AF266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B0272E-036B-4C69-AC96-F1C5957D190D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B0272E-036B-4C69-AC96-F1C5957D190D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B0272E-036B-4C69-AC96-F1C5957D190D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B0272E-036B-4C69-AC96-F1C5957D190D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D52B76A-0103-47A3-BF38-0A349F5AF266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D52B76A-0103-47A3-BF38-0A349F5AF266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D52B76A-0103-47A3-BF38-0A349F5AF266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D52B76A-0103-47A3-BF38-0A349F5AF266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F14177-79DA-4A7D-B880-AC4E4F630DD4}
+	EndGlobalSection
+EndGlobal
